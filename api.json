@@ -1,0 +1,6 @@
+{
+  "publications": [
+    { "id": 1, "title": "Publication 1", "description": "description 1" },
+    { "id": 2, "title": "Publication 2", "description": "description 2" }
+  ]
+}
